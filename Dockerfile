@@ -1,4 +1,4 @@
-FROM ghcr.io/greenroom-robotics/ros_builder:humble-latest
+FROM ghcr.io/greenroom-robotics/ros_builder:iron-latest
 ARG API_TOKEN_GITHUB
 
 ENV PLATFORM_MODULE="px4_msgs"
